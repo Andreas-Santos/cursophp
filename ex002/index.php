@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Realizando alguns testes em PHP</h1>
-    <?php 
+    <?php
         date_default_timezone_set('America/Sao_Paulo');
         echo "Hoje é dia " . date("d/m/Y");
         echo " e são " . date("G:i:s") . "<br>Timezone: " . date_default_timezone_get(); 
