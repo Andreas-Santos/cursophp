@@ -15,7 +15,7 @@
         echo "O valor da váriavel é: $num";
 
         # $v = 300;
-        # var_dump($v); usado para checar tiopo primitivo da váriavel
+        # var_dump($v); usado para checar tipo primitivo da váriavel
 
         $v = (int) "300"; //usado para fazer a conversão do tipo primitivo
         var_dump($v);
