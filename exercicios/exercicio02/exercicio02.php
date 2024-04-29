@@ -1,3 +1,5 @@
+<!-- Criar gerador de número aleatório -->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
